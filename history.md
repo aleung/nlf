@@ -1,3 +1,9 @@
+1.3.4-leo.1 (Nov 26, 2015)
+====================
+
+* Fix issue where development dependencies are still reported when --no-dev option is provided
+* Add detail summary with module list group by license
+
 1.3.3 (July 14, 2015)
 ====================
 
